@@ -33,3 +33,15 @@ A visually stunning and interactive 3D developer portfolio built with React, Thr
 ## License
 This project is for personal portfolio use. Feel free to customize and deploy your own version!
 
+
+![image](https://github.com/user-attachments/assets/11bb20e5-0374-46e1-b817-2835d8686f48)
+
+![image](https://github.com/user-attachments/assets/81777177-e8b4-404b-bbd7-7ad8e67aaa94)
+
+![image](https://github.com/user-attachments/assets/775412a5-16fb-4ea3-bdd5-e3140f39e754)
+
+![image](https://github.com/user-attachments/assets/07a89555-7625-4854-a7dc-f4005f9ee7a2)
+
+
+
+
